@@ -6,7 +6,7 @@
 - 💬 Ask me about (Android, Kotlin, Java)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mariam-el-bradiey-225923199/)
 
-# Linkedin posts 
+# Linkedin articles: 
   - [Push Notifcation ](https://www.linkedin.com/posts/mariam-el-bradiey-225923199_android-androiddeveloper-kotlin-activity-6932780263659712513-jYoQ?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [Navigation Component ](https://www.linkedin.com/posts/mariam-el-bradiey-225923199_android-androiddevelopment-androiddeveloper-activity-6905560113516474368-uLyG?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [Architecture patterns: MVVM ](https://www.linkedin.com/posts/mariam-el-bradiey-225923199_android-androidstudio-java-activity-6900150985507827712-03vm?utm_source=linkedin_share&utm_medium=member_desktop_web)
