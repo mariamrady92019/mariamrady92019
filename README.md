@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as Andorid Mentor at [Route](https://ar-ar.facebook.com/Routelearning/)
 - 💬 Ask me about (Android, Kotlin, Java)
-- 📫 How to reach me: [Linkedin]([https://www.linkedin.com/in/mahmoud-mabrouk-fouad/](https://www.linkedin.com/in/mariam-el-bradiey-225923199/))
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mariam-el-bradiey-225923199/)
 
 
 # Stats 
